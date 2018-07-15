@@ -2,7 +2,7 @@
 
 Gourmand is a full stack recipe search and storage app that allows users to search the [Edamam API](https://developer.edamam.com/edamam-recipe-api) for recipes, save recipes to their personal recipe list, and create new recipes and add them to their recipe list. Gourmand utilizes JWT and bcrypt for user authentication and authorization, which enables users to securely log in and retrieve their saved recipes. Users can search for recipes and view each recipe's details as a guest, but they must have an account in order to save and create recipes.
 
-*See demo video [here.](https://www.youtube.com/watch?v=87kQOp2kQUM&feature=youtu.be)*
+**See demo video [here.](https://www.youtube.com/watch?v=87kQOp2kQUM&feature=youtu.be)**
 
 ## Getting Started
 
